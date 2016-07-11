@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_9cdf5fcf8109b928597e43dd5e0b76ba8e02ba4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_77a6c437b4e7ba8ae313f055dd9c97e809dbb93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ba3d8b9df583ad02c9e6e82deeac23b4f3b115ce">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/instant-run_6bd8b85c728b3a79390495a3e5970e828441de7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fc6371bc440b088e916123d9a90292138ea0da84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_18b076f52fb49a69b9b7da5fed8e7a1295a0e7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="37411cf112946eb0734d6e5ba850f091974988e8">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1999da405a778cf91411c36629ff94bd99eb7454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_df237effc17b0e282eccb8fca74bbc70ae6c0bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_76e01d29ba7461d38fa03c52ba7b7df4fa5a6dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_9f37df262324f33e62e2707d3810a90e27c8ac96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
+        <dex dex="/home/sdp04/AndroidStudioProjects/DBSQLite/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha3_6385eac8d82b842da27e63797bacbcdbc2445d69.jar" />
+    </item>
+
+</items>

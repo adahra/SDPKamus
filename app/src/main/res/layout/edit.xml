@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+<TextView android:text="Nama" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<EditText android:text="" android:id="@+id/edEditNama" android:layout_width="100dp" android:layout_height="wrap_content"></EditText>
+<TextView android:text="Latitude" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<EditText android:text="" android:id="@+id/edEditLatitude" android:layout_width="100dp" android:layout_height="wrap_content"></EditText>
+<TextView android:text="Longitude" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<EditText android:text="" android:id="@+id/edEditLongitude" android:layout_width="100dp" android:layout_height="wrap_content"></EditText>
+<Button android:text="Simpan" android:id="@+id/btnEditSimpan" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>
